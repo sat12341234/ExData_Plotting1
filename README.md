@@ -1,11 +1,12 @@
 ## Introduction
 This is to complete the class assignment for "Exploratory Data Analysis". 
 
+<b>Setup</b>:
 To follow the assignment scripts, you need to 
 downlaod the file from the class assignment page
 * <b>Dataset</b>: <a href="https://d396qusza40orc.cloudfront.net/exdata%2Fdata%2Fhousehold_power_consumption.zip">Electric power consumption</a> [20Mb]
 
-* <b>Description</b>:
+<b>Description</b>:
 * Download the file
 * Unzip the file.
 * Navigate to the folder where the unzipped file is saved
